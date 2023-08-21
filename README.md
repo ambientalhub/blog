@@ -1,2 +1,2 @@
 # blog
-Thoaded blog and discussions
+Ambiental Hub blog and discussions
